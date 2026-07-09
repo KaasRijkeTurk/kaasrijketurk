@@ -15,10 +15,4 @@
 - [Microslop Support Bot](https://github.com/kaasrijketurk/microslop-bot) - Local AI Discord bot for server management via Ollama
 - [TR Sandwich Co. 2.0](https://github.com/kaasrijketurk/TRSandwichCo) - Web project exploring Turkish cuisine
 
-## Links
-
-- [Portfolio](https://kaasrijketurk.github.io/MC/)
 - [Mhub](https://kaasrijketurk.github.io/Mhub)
-- [YouTube](https://www.youtube.com/@DawahSimplified)
-- [TikTok](https://www.tiktok.com/@datametmert)
-- [Fiverr](https://nl.fiverr.com/datawithmert)
