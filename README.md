@@ -6,7 +6,7 @@
 
 - [DeenCraft](https://github.com/kaasrijketurk/DeenCraft) - Islamic-inspired Minecraft mod (Fabric 1.21.10)
 - [Microslop Support Bot](https://github.com/KaasRijkeTurk/Microslop-Support) - Local AI Discord bot for server management via Ollama
-- [TR Sandwich Co. 2.0](https://github.com/kaasrijketurk/turkwich) - Web project exploring Turkish cuisine
+- [TR Sandwich Co. 3.0](https://github.com/kaasrijketurk/turkwich) - Web project exploring Turkish cuisine
 
 ## Abandoned / Incomplete Projects
 
