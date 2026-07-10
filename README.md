@@ -1,4 +1,4 @@
-# Mert Can
+# Mcan
 
 18-year-old developer focused on Minecraft modding, Discord bots, and web development.
 
