@@ -8,8 +8,8 @@
 - [Microslop Support Bot](https://github.com/KaasRijkeTurk/Microslop-Support) - Local AI Discord bot for server management via Ollama
 - [TR Sandwich Co. 3.0](https://github.com/kaasrijketurk/turkwich) - Web project exploring inedable cuisine
 
-## Abandoned / Incomplete Projects
-
+## Abandoned Group (isgoed) Project 
+Might come back for it. 
 - [Curious Crystals](https://github.com/KaasRijkeTurk/Curious-Crystals) - New gems, mobs, and structures for Minecraft (Fabric 1.20.1)
 
 ## Future Projects
