@@ -17,5 +17,6 @@ Might come back to finish it.
 ## Future Projects
 - M365 Nopilot: Discord Command-bot for sorting YouTube playlists and categorizing videos via Ollama (llama3.1:8b). Completely local, so no API costs.
 - SilentAmbience: A simple CLI tool or lightweight GUI app that generates ambient noise but with a twist: it pauses automatically when your microphone detects you speaking. Great for people who work from home and wear headphones.
+- Deencraft for neoforge 1.21.1
 
 ## [Learn more about me](https://kaasrijketurk.github.io/Mhub/)
