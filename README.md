@@ -4,11 +4,11 @@
 
 ## Current Projects
 - [DeenCraft](https://github.com/kaasrijketurk/DeenCraft) - Islamic-inspired Minecraft mod (Fabric 1.21.10)
-- [M365 Nopilot](https://github.com/KaasRijkeTurk/M365-Nopilot) - Local Discord Command-bot for sorting YouTube playlists and categorizing videos via Ollama.
 
 ### Completed Projects
 - [TR Sandwich Co. 3.0](https://github.com/kaasrijketurk/turkwich) - Web project exploring inedable cuisine
 - [Microslop Support Bot](https://github.com/KaasRijkeTurk/Microslop-Support) - Local AI Discord bot for server management via Ollama
+- [M365 Nopilot](https://github.com/KaasRijkeTurk/M365-Nopilot) - Local Discord Command-bot for sorting YouTube playlists and categorizing videos via Ollama.
 
 ### Abandoned Project 
 Credits to team isgoed.
