@@ -2,7 +2,7 @@
 
 18-year-old developer focused on Minecraft modding, Discord bots, and Open Source.
 
-## Current Projects
+### Current Projects
 - [DeenCraft](https://github.com/kaasrijketurk/DeenCraft) - Islamic-inspired Minecraft mod (Fabric 1.21.10)
 
 ### Completed Projects
@@ -10,12 +10,10 @@
 - [Microslop Support Bot](https://github.com/KaasRijkeTurk/Microslop-Support) - Local AI Discord bot for server management via Ollama
 - [M365 Nopilot](https://github.com/KaasRijkeTurk/M365-Nopilot) - Local Discord Command-bot for sorting YouTube playlists and categorizing videos via Ollama.
 
-### Abandoned Project 
-Credits to team isgoed.
-Might come back to finish it. 
-- [Curious Crystals](https://github.com/KaasRijkeTurk/Curious-Crystals) - New gems, mobs, and structures for Minecraft (Fabric 1.20.1)
+### Archived Projects
+- [Curious Crystals](https://github.com/KaasRijkeTurk/Curious-Crystals) - New gems, mobs, and structures for Minecraft (Fabric 1.20.1) Credits to team isgoed.
 
-## Future Projects
+### Future Projects
 - SilentAmbience: A simple CLI tool or lightweight GUI app that generates ambient noise but with a twist: it pauses automatically when your microphone detects you speaking. Great for people who work from home and wear headphones.
 - Deencraft for neoforge 1.21.1
 
