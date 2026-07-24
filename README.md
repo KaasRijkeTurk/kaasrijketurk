@@ -4,7 +4,7 @@
 
 ### Current Projects
 - [DeenCraft](https://github.com/kaasrijketurk/DeenCraft) - Islamic-inspired Minecraft mod (Fabric 1.21.10)
-- [SilentAmbience](https://github.com/kaasrijketurk/SilentAmbience): A simple CLI tool or lightweight GUI app that generates ambient noise but with a twist: it pauses automatically when your microphone detects you speaking. Great for people who work from home and wear headphones.
+- [SilentAmbience](https://github.com/kaasrijketurk/SilentAmbience): A simple CLI tool or lightweight GUI app that generates ambient noise that pauses automatically when your microphone detects you speaking.
 
 ### Completed Projects
 - [TR Sandwich Co. 3.0](https://github.com/kaasrijketurk/turkwich) - Web project exploring inedable cuisine
