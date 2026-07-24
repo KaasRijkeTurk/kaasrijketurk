@@ -1,6 +1,6 @@
 # Mcan
 
-18-year-old developer focused on Minecraft modding, Discord bots, and Open Source.
+18-year-old developer focused on Minecraft modding, Discord bots, and Open source.
 
 ### Current Projects
 - [DeenCraft](https://github.com/kaasrijketurk/DeenCraft) - Islamic-inspired Minecraft mod (Fabric 1.21.10)
