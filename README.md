@@ -16,5 +16,3 @@
 
 ### Future Projects
 - [DeenCraft](https://github.com/kaasrijketurk/DeenCraft) for neoforge 1.21.1
-
-## [Learn more about me](https://kaasrijketurk.github.io/Mhub/)
