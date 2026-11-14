@@ -1,4 +1,4 @@
-# Mcan
+# KaasRijkeTurk
 
 18-year-old developer focused on Minecraft modding, Discord bots, and Open source.
 
