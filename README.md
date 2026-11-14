@@ -1,6 +1,6 @@
 # KaasRijkeTurk
 
-18-year-old developer focused on Minecraft modding, Discord bots, and Open source.
+19 year old developer focused on modding, bots, and Open source.
 
 ### Current Projects
 - [Room Invaders](https://github.com/kaasrijketurk/Room-Invaders) - Unity horror game: retro Space Invaders that turns into a 3D alien survival experience (coming to Steam)
