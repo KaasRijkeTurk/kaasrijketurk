@@ -4,7 +4,6 @@
 
 ### Current Projects
 - [Room Invaders](https://github.com/kaasrijketurk/Room-Invaders) - Unity horror game: retro Space Invaders that turns into a 3D alien survival experience (coming to Steam)
-
 - [DeenCraft](https://github.com/kaasrijketurk/DeenCraft) - Islamic-inspired Minecraft mod (Fabric 1.21.10)
 - [SilentAmbience](https://github.com/kaasrijketurk/SilentAmbience): A simple CLI tool or lightweight GUI app that generates ambient noise that pauses automatically when your microphone detects you speaking.
 
