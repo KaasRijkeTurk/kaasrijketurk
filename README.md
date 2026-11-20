@@ -11,9 +11,4 @@
 - [TR Sandwich Co. 3.0](https://github.com/kaasrijketurk/turkwich) - Web project exploring inedable cuisine
 - [Microslop Support Bot](https://github.com/KaasRijkeTurk/Microslop-Support) - Local AI Discord bot for server management via Ollama
 - [M365 Nopilot](https://github.com/KaasRijkeTurk/M365-Nopilot) - Local Discord Command-bot for sorting YouTube playlists and categorizing videos via Ollama.
-
-### Archived Projects
 - [Curious Crystals](https://github.com/KaasRijkeTurk/Curious-Crystals) - New gems, mobs, and structures for Minecraft (Fabric 1.20.1) Credits to team isgoed.
-
-### Future Projects
-- [DeenCraft](https://github.com/kaasrijketurk/DeenCraft) for neoforge 1.21.1
